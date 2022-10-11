@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\bin\Debug\net6.0\Program1046.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\bin\Debug\net6.0\Program1046.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\bin\Debug\net6.0\Program1046.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\bin\Debug\net6.0\Program1046.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\bin\Debug\net6.0\Program1046.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\refint\Program1046.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\Program1046.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 4 - Estrutura condicional\Programas - Estrutura Condicional C#\Program1046\Program1046\obj\Debug\net6.0\ref\Program1046.dll
