@@ -7,27 +7,16 @@ namespace Program1040
     {
         static void Main(string[] args)
         {
-            float N1, N2, N3, N4, notaFinal, media, mediaFinal;
+            double N1, N2, N3, N4, notaFinal, media, mediaFinal;
 
             string[] vet = Console.ReadLine().Split(' ');
 
-            N1 = float.Parse(vet[0], CultureInfo.InvariantCulture);
-            N2 = float.Parse(vet[1], CultureInfo.InvariantCulture);
-            N3 = float.Parse(vet[2], CultureInfo.InvariantCulture);
-            N4 = float.Parse(vet[3], CultureInfo.InvariantCulture);
+            N1 = double.Parse(vet[0], CultureInfo.InvariantCulture);
+            N2 = double.Parse(vet[1], CultureInfo.InvariantCulture);
+            N3 = double.Parse(vet[2], CultureInfo.InvariantCulture);
+            N4 = double.Parse(vet[3], CultureInfo.InvariantCulture);
 
             media = (N1 * 2 + N2 * 3 + N3 * 4 + N4 * 1) / 10;
-
-
-            // O problema 1040 tem uma falha de arredondamento especifica
-            // para a linguagem C#. Quando a media da 4.85, nos temos que
-            // ajusta-la manualmente para 4.8, o que eh uma "gambiarra"
-            // horrivel, infelizmente. Isso nao aconteceu nas outras 
-            // linguagens que testamos, tais como Java, C e C++
-            if (media == 4.85f)
-            {
-                media = 4.8f;
-            }
 
             Console.WriteLine("Media: " + media.ToString("F1", CultureInfo.InvariantCulture));
 
@@ -42,7 +31,7 @@ namespace Program1040
             else
             {
                 Console.WriteLine("Aluno em exame.");
-                notaFinal = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                notaFinal = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 mediaFinal = (media + notaFinal) / 2;
                 Console.WriteLine("Nota do exame: " + notaFinal.ToString("F1", CultureInfo.InvariantCulture));
 
