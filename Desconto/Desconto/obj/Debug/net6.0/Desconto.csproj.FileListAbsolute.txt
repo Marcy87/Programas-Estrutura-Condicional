@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\bin\Debug\net6.0\Desconto.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\bin\Debug\net6.0\Desconto.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\bin\Debug\net6.0\Desconto.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\bin\Debug\net6.0\Desconto.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\bin\Debug\net6.0\Desconto.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\refint\Desconto.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\Desconto.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 7 - Tópicos especiais em C# - PARTE 1\Programas\Desconto\Desconto\obj\Debug\net6.0\ref\Desconto.dll
